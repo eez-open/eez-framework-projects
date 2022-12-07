@@ -35,15 +35,15 @@
 
   - MStack-DMA-eez-flow-demo
 
-      * no need to update eez-framework, build procedure always downloads the latest version
-      
+      > **Note**
+      > no need to update eez-framework, build procedure always downloads the latest version
 
       - GITHUB: https://github.com/eez-open/MStack-DMA-eez-flow-demo
 
   - Nscreen_32-esp32-eez-flow-demo
 
-      * no need to update eez-framework, build procedure always downloads the latest version
-      
+      > **Note**
+      > no need to update eez-framework, build procedure always downloads the latest version
 
       - GITHUB: https://github.com/eez-open/Nscreen_32-esp32-eez-flow-demo
 
