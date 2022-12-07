@@ -54,6 +54,6 @@
 
 # Unofficial demo projects
 
-- C:\work\eez\lv_web_emscripten (aka 3D-Printer)
+- lv_web_emscripten (aka 3D-Printer)
 
     - GITHUB: https://github.com/mvladic/lv_web_emscripten
