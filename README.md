@@ -1,3 +1,9 @@
+# New
+
+- A simple example of GUI on the M5-core2 family using LVGL and EEZ_studio
+
+    - GITHUB: https://github.com/bourdin/LVGL-PlatformIO-EEZStudio-Example
+
 # Template projects
 
 - eez-flow-template-sdl
